@@ -22,7 +22,7 @@
      ***`nmap --script vuln <target ip address>`***
 
 
-      <img width="600" height="500" alt="Vulnerability Scan" src=""/>
+      <img width="600" height="500" alt="Vulnerability Scan" src="https://github.com/chosn12/nmap-Enumeration/blob/7f817b5fa4227316be6f2d765c8d2eb3f9867b65/screenshots/Vulnerability%20scan.png"/>
 
 
      This will run a vunerability scan of all port and print out the results on screen
